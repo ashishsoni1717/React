@@ -4,7 +4,7 @@ import "./App.css";
 //import Header1 from './Components/Header1';
 //import TinyFooter from './Components/TinyFooter';
 // import ImpLink from './Components/ImpLink';
-// import Navbar from './Components/Navbar';
+import Navbar from './Components/Navbar';
 import Home from "./Components/Layout/Home";
 // import DSC from "./Components/Home/Display_State_Circular";
 // import Layout from "./Components/Layout/Layout";
