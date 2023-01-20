@@ -1,0 +1,38 @@
+.logo{
+    padding: 0;
+    margin: 0;
+    height: 15vh;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    background-color: #ffc525;
+    /* background-color:whitesmoke; */
+  }
+
+  .mystyle{
+    color: black;
+  background-color: whitesmoke;
+  /* backgroundColor: "#FCB900" */
+  padding: "5px";
+  font-family:arial;
+  }
+
+  .MuiTabs-flexContainer{
+    justify-content: center;
+    color: black; 
+    flex: center;
+    align-items: center;
+  }
+
+  /* .h4y409-MuiList-root{
+    margin: 50px;
+  }
+
+  .ul{
+    margin-block-start: 4em;
+  } */
+
+
+
+
+ 
